@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Todd Lamb\\Downloads\\RestGrpcDemo\\RestGrpcDemo\\GrpcService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D62134A5-F659-4B38-AAE8-00880B04DF61}|GrpcService.csproj|c:\\users\\todd lamb\\downloads\\restgrpcdemo\\restgrpcdemo\\grpcservice\\protos\\greet.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{D62134A5-F659-4B38-AAE8-00880B04DF61}|GrpcService.csproj|solutionrelative:protos\\greet.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D62134A5-F659-4B38-AAE8-00880B04DF61}|GrpcService.csproj|c:\\users\\todd lamb\\downloads\\restgrpcdemo\\restgrpcdemo\\grpcservice\\services\\greeterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D62134A5-F659-4B38-AAE8-00880B04DF61}|GrpcService.csproj|solutionrelative:services\\greeterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D62134A5-F659-4B38-AAE8-00880B04DF61}|GrpcService.csproj|c:\\users\\todd lamb\\downloads\\restgrpcdemo\\restgrpcdemo\\grpcservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D62134A5-F659-4B38-AAE8-00880B04DF61}|GrpcService.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "greet.proto",
+              "DocumentMoniker": "C:\\Users\\Todd Lamb\\Downloads\\RestGrpcDemo\\RestGrpcDemo\\GrpcService\\Protos\\greet.proto",
+              "RelativeDocumentMoniker": "Protos\\greet.proto",
+              "ToolTip": "C:\\Users\\Todd Lamb\\Downloads\\RestGrpcDemo\\RestGrpcDemo\\GrpcService\\Protos\\greet.proto",
+              "RelativeToolTip": "Protos\\greet.proto",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2024-08-07T04:16:21.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GreeterService.cs",
+              "DocumentMoniker": "C:\\Users\\Todd Lamb\\Downloads\\RestGrpcDemo\\RestGrpcDemo\\GrpcService\\Services\\GreeterService.cs",
+              "RelativeDocumentMoniker": "Services\\GreeterService.cs",
+              "ToolTip": "C:\\Users\\Todd Lamb\\Downloads\\RestGrpcDemo\\RestGrpcDemo\\GrpcService\\Services\\GreeterService.cs",
+              "RelativeToolTip": "Services\\GreeterService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T04:16:21.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Todd Lamb\\Downloads\\RestGrpcDemo\\RestGrpcDemo\\GrpcService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Todd Lamb\\Downloads\\RestGrpcDemo\\RestGrpcDemo\\GrpcService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-07T04:16:21.789Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
